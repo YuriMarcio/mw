@@ -1,0 +1,19 @@
+{
+    "name": "yuri/mw",
+    "description": "site para instucional para arquiteta",
+    "autoload": {
+        "psr-4": {
+            "Yuri\\Mw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuri Gomes",
+            "email": "yurigomesdds@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twbs/bootstrap": "5.1.*"
+    }
+}
